@@ -1,0 +1,46 @@
+body {
+    background-color: white;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 5%;
+}
+
+div {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 5vw;
+    font-size: auto;
+}
+
+div p {
+    margin: 0%;
+}
+
+.t{
+    color: black;
+    font-size: larger
+}
+
+.q {
+    color: red;
+    font-weight: bold;
+}
+
+img {
+    width: 50vw;
+    max-width: 300px;
+    max-height: 70vw;
+    object-fit: contain;
+    margin: 9%;
+}
+
+p {
+    text-align: center;
+}
+
+a {
+    text-align: center;
+    font-size: large;
+}
