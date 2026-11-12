@@ -31,9 +31,8 @@ div p {
 }
 
 img {
-    width: 50vw;
-    max-width: 300px;
-    max-height: 70vw;
+    width: 70vw;
+    max-width: 400px;
     object-fit: contain;
     margin: 4vh 0;
 }
